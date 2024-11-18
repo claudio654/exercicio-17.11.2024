@@ -1,0 +1,15 @@
+meu-botao {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.meu-botao:hover {
+    background-color: #45a049;
+}
+
+.botao-link {
+    text-decoration: none; /* Remove o sublinhado do link */
+}
